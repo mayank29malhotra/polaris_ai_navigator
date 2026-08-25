@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="phase2_hint">Tap to send a sample turn to your watch.</string>
+    <string name="test_watch">TEST WATCH</string>
+    <string name="test_posted">Sent: %1$s</string>
+    <string name="notifications_denied">Enable notifications to send to the watch.</string>
+    <string name="enable_bridge">ENABLE MAPS BRIDGE</string>
+    <string name="notification_listener_label">Navigator navigation bridge</string>
+    <string name="voice_listen">VOICE COMMAND</string>
+    <string name="listening">Listening…</string>
+    <string name="heard">Heard: %1$s</string>
+    <string name="voice_error">Voice error %1$d</string>
+    <string name="mic_denied">Microphone permission is needed for voice commands.</string>
+    <string name="speech_unavailable">Speech recognition isn\'t available on this device.</string>
+    <string name="start_nav">START NAV (SDK)</string>
+    <string name="nav_initializing">Starting navigation…</string>
+    <string name="nav_ready">Navigation ready.</string>
+    <string name="nav_error">Navigation unavailable. Check the Maps API key.</string>
+    <string name="location_denied">Location permission is needed for navigation.</string>
+    <string name="tool_set_dest">SET DESTINATION</string>
+    <string name="tool_add_stop">ADD STOP</string>
+    <string name="tool_clear_stops">CLEAR STOPS</string>
+</resources>
